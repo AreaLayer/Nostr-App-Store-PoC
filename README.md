@@ -17,5 +17,5 @@ You can run the application adding cargo.toml
 
 [package]
 
-rust-lightning =
-rus-nostr = 
+rust-lightning = "0.0.115"
+rus-nostr = "0.22"
