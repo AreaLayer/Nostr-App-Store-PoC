@@ -26,5 +26,4 @@ You can run the application adding cargo.toml
 [package]
 
 nostr-app-store-poc = "1.0.0"
-rust-lightning = "0.0.115"
 rus-nostr = "0.22"
