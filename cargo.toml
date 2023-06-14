@@ -1,0 +1,5 @@
+
+[package]
+
+rust-lightning = "0.0.115"
+rus-nostr = "0.22"
