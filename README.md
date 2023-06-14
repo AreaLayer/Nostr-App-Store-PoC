@@ -17,7 +17,7 @@ The `MyApp` struct implements the `nostr::EventHandler` trait, which requires ha
 
 In the main function, we initialize the Nostr instance with `MyApp` as the event handler. We then subscribe to specific Nostr events, publish the app on the Nostr protocol, and start listening for events and relays.
 
-# Run application
+## Run application
 
 You can run the application adding cargo.toml
 
