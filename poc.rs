@@ -1,4 +1,4 @@
-use nostr::{PubKey as Event, Event, Event as Relay, Relay};
+use rust_nostr::{PubKey as Event, Event, Event as Relay, Relay};
 use lightning::ln::PaymentHash;
 use lightning::chain;
 use lightning::chain::chaininterface::{BroadcasterInterface, FeeEstimator};
