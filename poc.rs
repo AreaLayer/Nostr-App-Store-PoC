@@ -68,6 +68,11 @@ fn main() {
 
     // Start listening for Nostr protocol events and relays
     nostr.listen();
+    
+    // Users zap developer of App
+    nostr.zap();
+    nostr.zap(Event::Zap)
+    nostr.zap(Event::Zapped)
 }
 
 
