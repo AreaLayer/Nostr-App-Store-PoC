@@ -11,6 +11,8 @@ Simple  Proof of Concept for Nostr App Store
 
 # Run application
 
+You can run the application adding cargo.toml
+
 ```cargo.toml
 
 [package]
