@@ -27,3 +27,7 @@ You can run the application adding cargo.toml
 
 nostr-app-store-poc = "1.0.0"
 rus-nostr = "0.22"
+```
+## Demo video of PoC with Nostr App Store
+
+![Demo video](https://github.com/AreaLayer/Nostr-App-Store-PoC/blob/main/demo-video/Test4.gif)
