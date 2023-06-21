@@ -9,6 +9,8 @@ Simple  Proof of Concept for Nostr App Store
 - App is published
 - User can download the app via APK
 
+The protocol is based on [NIP-89](https://github.com/nostr-protocol/nips/blob/master/89.md)
+
 ## More detail
 
 In this example, we create a struct `MyApp` that represents  application.
